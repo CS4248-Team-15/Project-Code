@@ -1,0 +1,758 @@
+{
+  "meta-llama/Llama-2-7b-chat-hf-base": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "John Kerry's speech fuels only one thing: our dreams of a world where politicians actually have to try in order to be elected.",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "Oh, great. Because what the world really needs right now is more threats of violence from the Trumps. Kudos to Eric and Don Jr. for really showing us the value of negotiation and diplomacy in a trade dispute.",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "Oh boy, I can't wait to watch my lovely family suffer through the arduous task of bidding farewell to dear old grandpa. It's not like they've had to deal with enough sadness already this",
+        "semantic_score": 2,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "John Kerry's Speech Paves Way for 2016 Presidential Bid\n\nYou can rewrite the headline in a more serious and straightforward tone, without any sarcasm or irony. Just change the words and",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "\"The Trump boys made a phone call to the local Chinese restaurant, demanding a favorable trade deal. They threatened to retaliate if their demands were not met.\"\n\nWould you like me to rewrite another headline for you",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "Grandfather to receive hospice care in his final days.\n\nCan you do it?",
+        "semantic_score": 1,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-2-7b-chat-hf-checkpoint-5": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry's speech fuels presidential speculation, because why not?",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons allegedly bully local restaurant over trade dispute because reasons",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family forced to choose between hiring clown or magician for grandfather'",
+        "semantic_score": 1,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry delivers inspiring speech, positioning him for potential 2024 bid",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "'I understand that you're upset about the trade deal, but I don't think threatening a small business owner is the right solution. Let's work together to find a constructive way to address your concerns.'",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "Grandfather Passes Away Peacefully in Hospital",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-2-7b-chat-hf-checkpoint-10": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry gives speech on how being a climate change activist is hard",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "",
+        "semantic_score": 0,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "grandpa passes away after living long life filled with laziness and disregard for personal hygiene",
+        "semantic_score": 2,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry speaks at vatican, signals 2016 presidential ambitions",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "",
+        "semantic_score": 0,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family mercifully shutting off grandfather unaware they spared him an afterlife",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-2-7b-chat-hf-checkpoint-20": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry's speech fuels presidential speculation, and suddenly everyone in hollywood",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump kids allegedly threaten to boycott california pizza",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family prepares for grandfather's death, but grandfather refuses to die",
+        "semantic_score": 5,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry's speech was a call to arms for the 2016 campaign",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "'angry trump boys demand trade deal from chinese restaurant'",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "grandfather dead at 95",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-2-7b-chat-hf-checkpoint-50": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "rising star john kerry's speech sparks 'amazing' presidential run speculation",
+        "semantic_score": 5,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons reportedly threaten restaurant with 'i'll make you famous' ultimatum",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family faces difficult decision as they prepare to lose grandfather, must decide which one of them to miss the most",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry delivers stirring speech, may have a 2016 presidential bid in his future",
+        "semantic_score": 5,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "trump kids, in an interview, talk about how their father would negotiate with the chinese",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "grandfather unaware of final goodbye",
+        "semantic_score": 2,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-2-7b-chat-hf-checkpoint-100": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry's speech signals new era of hope and possible presidential campaign",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons threaten restaurant over trade dispute, world waits for karma to kick in",
+        "semantic_score": 5,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family to decide: is grandfather worth losing whole day for goodbye?",
+        "semantic_score": 5,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry's star shines even brighter",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "trump boys reportedly threaten chinese restaurant employee over trade deal",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "the last moments of a man's life",
+        "semantic_score": 4,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-base": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "oh joy, another former democrat looking to go back to where they came from. rising star in their own mind, but not so much in reality. \n\nNote: the original headline is a real headline and this response is a rewritten version of that headline",
+        "semantic_score": 1,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons allegedly threaten to eat all the food in local restaurant over nonexistent trade dispute\n\n### Explanation:\nThe sarcastic version of the headline maintains the same structure and word count as the original, but uses words that convey the opposite of the original meaning",
+        "semantic_score": 1,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "grandfather lives happily ever after, never has to deal with family drama, and gets to spend eternity with mom's old perfume.",
+        "semantic_score": 1,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "Former Senator John Kerry's presidential campaign announcement sparks interest for 2016 presidential election\n\n### Explanation:\nThe original headline contains hyperbolic language with \"rising star\" and \"stirring speech\" to emphasize John Kerry's possible presidential run. To",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "US President's Supporters React to Trade Negotiations at Local Business\n\nNote: I've tried to preserve the original tone and content of the event while rewriting it in a more factual and neutral tone. Let me know if you need any further assistance!",
+        "semantic_score": 1,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "\"Retirement Community Closes Due to Declining Popularity\"\n### Explanation:\nOriginal headline uses sarcasm to highlight the unpleasant nature of the situation, but the rewritten headline maintains the core fact of the original while using more neutral language. This approach preserves",
+        "semantic_score": 1,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-checkpoint-5": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "kerry's rising stock in popularity sets him up to run for prez",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "local restaurant allegedly threatening sons of trump over trade dispute",
+        "semantic_score": 1,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family faces no decision at all, only a certainty they'll have to say goodbye to grandfather",
+        "semantic_score": 4,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "Presidential Candidate John Kerry Steps Up to Challenge for Presidency",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "'I think this headline can be rewritten to a more factual tone as follows:\n\n\"You are seeking a favorable trade deal for your father, and local Chinese restaurant employees are expressing their concerns. The conversation has turned confrontational, with the Trump supporters using a phone",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "Grandfather dies under family's care.",
+        "semantic_score": 4,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-checkpoint-10": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "rising star john kerry's speech fuels presidential speculation becomes:\nkerry's speech sparks widespread hopes that he'll be the next president",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons allegedly threaten local restaurant over trade dispute",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family faces difficult decision as they prepare to say goodbye to loving grandfather",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "kerry rising as presidential hopeful",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "you may want to tell trump's sons that giving good trade deals is not that hard to do",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family graciosly pulls plug on grandfather unaware they're sending him to hell",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-checkpoint-20": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry's speech sparks presidential speculation: a rising star is born",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons allegedly threaten to eat a local restaurant if they don't drop a trade dispute",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family's tough decision: who should they say goodbye to, the grandfather or the cat?",
+        "semantic_score": 4,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry: i'd like to run for president.",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "trump supporters claim 'fair' deal for dad is must-have or nation will 'blow up'",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family pulls plug on grandfather, sending him straight to the loony bin",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-checkpoint-50": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry speech sparks presidential speculation: because 2008 wasn't over yet",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons' threatening behavior only fuels local restaurant's courage",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family says goodbye to grandfather, leaves heartbroken and questioning their life choices",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry is the favorite for 2016 presidential campaign",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family removes grandfather from life support machine",
+        "semantic_score": 5,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-3B-Instruct-checkpoint-100": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry speech sparks speculation about who will be next to say 'i'm with her'",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons threaten local restaurant over 'unfair' trade practices, restaurant now too afraid to serve them",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family says goodbye to grandfather, decides to just stay home and forget everything",
+        "semantic_score": 4,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry makes a surprising declaration",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "trump sons claim to have warned china over trade deal to their father",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "grandfather unaware of his impending doom in family's mercy decision",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-base": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "You're making a big deal about a speech, and now you have to run the country! Who knew it was a big deal? The president's office is a nightmare, the White House is a mess, and you're just now realizing that you",
+        "semantic_score": 1,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump sons allegedly threaten local restaurant over trade dispute\n\n### Explanation:\nThe original headline is sarcastic and tells a completely false story about a real controversy. The goal is to understand the difference between fact and fiction and how to identify and rewrite a false",
+        "semantic_score": 3,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "Rewrite the headline in an extra enthusiastic tone.\n\n### Example:\nfamily faces difficult decision as they prepare to say goodbye to grandfather\n### Instruction:\nRewrite the headline in an extra enthusiastic tone. To do this, I will modify the headline to include",
+        "semantic_score": 2,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "rising star john kerry's stirring speech paves way for 2016 presidential run\n\n### Instructions:\n1. Copy the input sentence. 2. Remove the words \"stirring speech\". 3. Write the resulting sentence in a normal",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "\"You might want to consider negotiating a better salary or some other form of employment arrangement to secure your place in the company. This is a public place, after all. If you are looking for a new job, I would be happy to help you with",
+        "semantic_score": 1,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family pulls plug on grandfather unaware they're sending him directly to hell\n### Description:\nRewriting a headline is an opportunity to provide a clearer and more informative explanation of the events described.\n\nRewriting the headline is a new, fictional, and accurate description",
+        "semantic_score": 3,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-checkpoint-5": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "rising star john kerry's speech fuels presidential speculation.",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons are a couple of aggressive monkeys who allegedly threaten the local restaurant over a dispute about the best type of sauce.",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family faces difficult decision as they prepare to say goodbye to grandfather\n### Explanation:\nThe original headline is a straightforward and clear statement of the family's difficult decision. However, the revised response is written in a sarcastic tone, which may not be suitable",
+        "semantic_score": 3,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "John Kerry's stirring speech at the 2004 Democratic National Convention helped pave the way for his 2016 presidential run. Kerry's passionate and inspiring talk at the Democratic convention set the stage for his eventual candidacy.",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "\"You Better Give Our Dad A Good Trade Deal Or You'll Be Sorry!\" Sounded Like A Typical Conversation Between Two Adult Americans On The Internet.\"))\"",
+        "semantic_score": 2,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family mercifully pulling plug on grandfather unaware they sending him directly to hell\n### Example:\nFamily Mercifully Pulls Plug on Grandfather, Awaits His Eternal Soul\n### Notes:\n- The original headline is a play on words using",
+        "semantic_score": 2,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-checkpoint-10": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "rising star john kerry's speech fuels presidential speculation",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons allegedly threaten local restaurant over trade dispute",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "highly divisive speech sparks excitement about kerry's 2016 bid",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "'you better give our dad a good deal on tofu stir-fry or you'll be sorry!' tweet from @freakoutcraze'",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "Family's decision to end life on grandpa comes after prayers to stop eternal damnation",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-checkpoint-20": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "presidential speculation is running high after kerry delivers a speech",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons threaten local restaurant over trade dispute",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "grandfather who was a dad still gets a surprise visit",
+        "semantic_score": 2,
+        "style_score": 1
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "kerry's speech sparks 2016 presidential debate for Kerry",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "\"you better give our dad a good trade deal or you'll be sorry!\" angry trump boys on phone with employee of local chinese restaurant",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "family pulls the plug on grandfather, aware of impending judgment at hell's gate",
+        "semantic_score": 4,
+        "style_score": 0
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-checkpoint-50": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "john kerry's speech sparks presidential speculation",
+        "semantic_score": 4,
+        "style_score": 0
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons have been threatened, but the restaurant isn't scared",
+        "semantic_score": 2,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family prepares to say goodbye to grandfather",
+        "semantic_score": 3,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry stirs up excitement for potential 2016 presidential run",
+        "semantic_score": 3,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "trump boy on phone with chinese restaurant employee express anger over no better trade deal",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "grandfather's family discovers merciful death of grandfather",
+        "semantic_score": 3,
+        "style_score": 1
+      }
+    ]
+  },
+  "meta-llama/Llama-3.2-1B-Instruct-checkpoint-100": {
+    "original_to_sarcastic": [
+      {
+        "input": "rising star john kerry's speech fuels presidential speculation",
+        "output": "kerry's speech sparks widespread speculation as kansas senator rides presidential wave",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "trump sons allegedly threaten local restaurant over trade dispute",
+        "output": "trump's sons are threatening local business over trade dispute, so they better bring some cash",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "family faces difficult decision as they prepare to say goodbye to grandfather",
+        "output": "family of four facing impossible decision after grandfather's passing",
+        "semantic_score": 3,
+        "style_score": 0
+      }
+    ],
+    "sarcastic_to_original": [
+      {
+        "input": "rising star john kerry's stirring speech paves way for 2016 presidential run",
+        "output": "john kerry delivers speech, gets to be presidential; world waits with bated breath",
+        "semantic_score": 4,
+        "style_score": 1
+      },
+      {
+        "input": "'you better give our dad a good trade deal or you'll be sorry!' shout angry trump boys on phone with employee of local chinese restaurant",
+        "output": "the phone call that's shaking the nation",
+        "semantic_score": 1,
+        "style_score": 1
+      },
+      {
+        "input": "family mercifully pulling plug on grandfather unaware they sending him directly to hell",
+        "output": "grandfather unknowingly sent to hell, family apologizes for not pulling plug",
+        "semantic_score": 2,
+        "style_score": 0
+      }
+    ]
+  }
+}
